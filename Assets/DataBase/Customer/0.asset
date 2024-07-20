@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc455ab40a15f694ea6d133da41a8fb9, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  customerNumber: 0
+  customerName: "\u30B5\u30AB\u30A4"
+  customerDetail:
+  - {fileID: 11400000, guid: ee9744dde44858c458bd7487eee893d1, type: 2}
+  - {fileID: 11400000, guid: 3906cb3b3b39773478954fd58e915d72, type: 2}
+  customerOrderTime: 6
+  customerOrderFoodNumber: 0300000001000000
+  customerEatingEndTime: 10

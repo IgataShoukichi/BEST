@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb7fa747ef22eef4cab775fdea030f2b, type: 3}
+  m_Name: SoundDataBase
+  m_EditorClassIdentifier: 
+  soundEffectList:
+  - clip: {fileID: 8300000, guid: 0ca00e01addfeb54281db6bce8512446, type: 3}
+    information: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30AD\u30FC\u30DC\u30FC\u30C9\u30AB\u30FC\u30BD\u30EB\u79FB\u52D5"
+  - clip: {fileID: 8300000, guid: 10944c5811f1dbe4493c7171615b73ab, type: 3}
+    information: "\u30B9\u30AF\u30EA\u30FC\u30F3\u30AD\u30FC\u30DC\u30FC\u30C9\u6C7A\u5B9A"
+  - clip: {fileID: 8300000, guid: d29471a702018c642863870fe5b9d0f7, type: 3}
+    information: "\u30CE\u30FC\u30DE\u30EB\u30AB\u30FC\u30BD\u30EB\u79FB\u52D5"
+  - clip: {fileID: 8300000, guid: 2bc1ae4aba104094fbbece7c6180f1e7, type: 3}
+    information: "\u30CE\u30FC\u30DE\u30EB\u6C7A\u5B9A"
+  - clip: {fileID: 8300000, guid: 761eda28f4459f746bc869a014ff748c, type: 3}
+    information: "\u6E96\u5099\u5B8C\u4E86\u30DC\u30BF\u30F3"
+  - clip: {fileID: 8300000, guid: fdca5e323b4f3814ca30f33e7dffdc49, type: 3}
+    information: "\u696D\u52D9\u958B\u59CB"
+  - clip: {fileID: 8300000, guid: 0f94d94280a4c2c4c9e517d91a061542, type: 3}
+    information: "\u5165\u5E97\u306E\u969B\u306E\u97F3"
+  - clip: {fileID: 8300000, guid: 1faa41397e1c40e46bb62620efcabf73, type: 3}
+    information: "\u30B2\u30FC\u30E0\u958B\u59CB"
+  - clip: {fileID: 8300000, guid: 9c6b8764d7e55a44fb4b9be42314c5dc, type: 3}
+    information: "\u30B2\u30FC\u30E0\u7D42\u4E86"
+  - clip: {fileID: 8300000, guid: bc29f98a06f96d0438f4ba185968e24d, type: 3}
+    information: "\u7D50\u679C\u767A\u8868\u958B\u59CB"
+  - clip: {fileID: 8300000, guid: b16235e442f7407418e684a332bc5b9d, type: 3}
+    information: "\u661F\u306E\u8868\u793A"
+  - clip: {fileID: 8300000, guid: d500402812e537e43a3a92614f51f306, type: 3}
+    information: "\u661F\u306E\u8868\u793A\u304C\u7D42\u308F\u3063\u305F\u3068\u304D"
+  - clip: {fileID: 8300000, guid: 27b0ba7fc67cf3a478e8b16d765accf9, type: 3}
+    information: Help
+  - clip: {fileID: 8300000, guid: 04c47e15abea5f34fbd696695a5fd564, type: 3}
+    information: "\u5B8C\u4E86\u97F3"
+  BGMList:
+  - clip: {fileID: 8300000, guid: d928ba07174425e44ae0cef4c824bdae, type: 3}
+    information: "\u30BF\u30A4\u30C8\u30EB"
+  - clip: {fileID: 8300000, guid: e7254bc349d637f4b8f4e951f45e0281, type: 3}
+    information: Matching
+  - clip: {fileID: 8300000, guid: f765eb52358dac44388e56d3a82ec50f, type: 3}
+    information: "\u30B2\u30FC\u30E0\u753B\u9762"
+  - clip: {fileID: 8300000, guid: c0dae2d88a4d4de489a1971ae0f7bbe0, type: 3}
+    information: "\u7D50\u679C\u8868\u793A"

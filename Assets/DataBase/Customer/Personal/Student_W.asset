@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ed8284c14cb5ae4f8df6317eb4d5418, type: 3}
+  m_Name: Student_W
+  m_EditorClassIdentifier: 
+  customerModels: {fileID: 2505561859619011705, guid: b6b6ff9f64a764d41b1341c0a2218954, type: 3}
+  customerFace:
+  - {fileID: 2800000, guid: 1189c3c5f2be4b34086c83fd49a4b7da, type: 3}
+  - {fileID: 2800000, guid: 505bfbe5a57e2bd49a53d8593c7554b2, type: 3}
+  - {fileID: 2800000, guid: 1254ee52c6b271442a282de4928c81f1, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7f3ee43efe734da2b4d759b325027, type: 3}
+  m_Name: 10.Drink
+  m_EditorClassIdentifier: 
+  foodNumber: 10
+  foodName: "\u30C9\u30EA\u30F3\u30AF"
+  foodModel: {fileID: 9133249260144313490, guid: 76f09f67a5ec9b24fbc464da2a9ef9fe, type: 3}
+  foodSprite: {fileID: 0}
+  foodColor:
+    serializedVersion: 2
+    rgba: 4286110078
+  foodTime: 0
+  foodBreak: 0
+  foodBig: 0

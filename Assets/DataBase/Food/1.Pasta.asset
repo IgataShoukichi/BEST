@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df7f3ee43efe734da2b4d759b325027, type: 3}
+  m_Name: 1.Pasta
+  m_EditorClassIdentifier: 
+  foodNumber: 1
+  foodName: "\u30D1\u30B9\u30BF"
+  foodModel: {fileID: 9156366967119376302, guid: 242fce7007a7308479d59ad217e274af, type: 3}
+  foodSprite: {fileID: 0}
+  foodColor:
+    serializedVersion: 2
+    rgba: 4279640414
+  foodTime: 0
+  foodBreak: 1
